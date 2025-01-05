@@ -17,7 +17,7 @@ This repository demonstrates how to implement a foreground service in Android. F
 * ACCESS_COARSE_LOCATION
 ## For More Details
 For an in-depth explanation of the foreground service implementation, refer to the Medium article.
-[Understanding and Implementing Foreground Services in Android](https://medium.com/@maheraizen1/understanding-and-implementing-foreground-services-in-android-2e1e3fc234ce)
+[Understanding and Implementing Foreground Services in Android](https://medium.com/@RhoumaMaher/understanding-and-implementing-foreground-services-in-android-2e1e3fc234ce)
 ## Testing
 * Install the app on your Android device.
 * Grant necessary permissions.
@@ -28,7 +28,7 @@ Foreground services allow Android apps to handle tasks in the background while k
 ## License
 This project is licensed under the MIT License. Feel free to use and modify the code for your own projects.
 Happy coding! If you have any questions or suggestions, feel free to reach out.
-* **Medium:** [My Medium Profile](https://medium.com/@maheraizen1)
+* **Medium:** [My Medium Profile](https://medium.com/@RhoumaMaher)
 * **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/maher-rhouma-581919199/)
   
 Let’s connect and discuss all things Android!
